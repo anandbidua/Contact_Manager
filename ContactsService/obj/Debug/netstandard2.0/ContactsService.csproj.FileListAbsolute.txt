@@ -1,0 +1,8 @@
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\bin\Debug\netstandard2.0\ContactsService.deps.json
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\bin\Debug\netstandard2.0\ContactsService.dll
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\bin\Debug\netstandard2.0\ContactsService.pdb
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\obj\Debug\netstandard2.0\ContactsService.AssemblyInfoInputs.cache
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\obj\Debug\netstandard2.0\ContactsService.AssemblyInfo.cs
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\obj\Debug\netstandard2.0\ContactsService.dll
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\obj\Debug\netstandard2.0\ContactsService.pdb
+C:\Users\a752856\source\repos\ContactInformation\ContactsService\obj\Debug\netstandard2.0\ContactsService.csproj.CoreCompileInputs.cache

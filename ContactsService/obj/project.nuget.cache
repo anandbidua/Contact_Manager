@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy2+6TSQFDQ4tKGDgsInfabsfENI93V/gt1oSthu5TSf0XBwuTsPo8MRb6H+DVT6D9Qiza4A/VUt02RMFhfqSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a752856\\source\\repos\\ContactInformation\\ContactsService\\ContactsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a752856\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\a752856\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\a752856\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.4.21253.7\\system.componentmodel.annotations.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
+  "logs": []
+}
